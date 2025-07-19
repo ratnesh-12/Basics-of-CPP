@@ -9,3 +9,20 @@ C++ Prgram Structure:
 •	The line int main() is the main function where program execution begins.
 •	The next line cout << "Hello World"; causes the message "Hello World" to be displayed on the screen.
 •	The next line return 0; terminates main( )function and causes it to return the value 0 to the calling process.
+
+Algorithm for Hello World Program:
+💡 Steps:
+Start
+Include the necessary header file
+Use main() function
+Print "Hello, World!" using cout
+End
+
+Algorithm for Calculator Program:
+💡 Steps:
+Start
+Input two numbers
+Ask the user to choose an operation (+, -, *, /)
+Use a switch-case to perform the selected operation
+Display the result
+End
