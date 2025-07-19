@@ -2,15 +2,8 @@
 
 Aim: Create a Hello World and Calculator program
 
-C++ Prgram Structure:  
-•	The C++ language defines several headers, which contain information that is either necessary or useful to your program. For this program, the header <iostream> is needed.  
-•	The line using namespace std; tells the compiler to use the std namespace. Namespaces are a relatively recent addition to C++.  
-•	The next line '// main() is where program execution begins.' is a single-line comment available in C++. Single-line comments begin with // and stop at the end of the line.  
-•	The line int main() is the main function where program execution begins.  
-•	The next line cout << "Hello World"; causes the message "Hello World" to be displayed on the screen.  
-•	The next line return 0; terminates main( )function and causes it to return the value 0 to the calling process.  
-
-C++ is a high-level, general-purpose programming language that supports object-oriented, procedural, and generic programming. It is widely used for system/application software, game development, and competitive programming.
+Theory:<br>
+C++ is a high-level, general-purpose programming language that supports object-oriented, procedural, and generic programming. It is widely used for system/application software, game development, and competitive programming.<br>
 
 1. Hello World Program:<br>
 The "Hello World" program is the most basic and introductory program in any programming language. In C++, it is used to demonstrate the structure of a simple program and how output is handled using the cout statement. This program includes the standard header file <iostream> for input-output operations and uses the main() function, which is the starting point of every C++ program. The cout object, along with the insertion operator <<, is used to print the message to the console.<br>
