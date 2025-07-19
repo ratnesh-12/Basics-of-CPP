@@ -10,13 +10,15 @@ C++ Prgram Structure:
 •	The next line cout << "Hello World"; causes the message "Hello World" to be displayed on the screen.
 •	The next line return 0; terminates main( )function and causes it to return the value 0 to the calling process.
 
-Algorithm for Hello World Program:
-💡 Steps:
-Start
-Include the necessary header file
-Use main() function
-Print "Hello, World!" using cout
-End
+Algorithm for Hello World Program:  
+
+Start  
+
+Include the necessary header file  
+Use main() function  
+Print "Hello, World!" using cout  
+End  
+
 
 Algorithm for Calculator Program:
 💡 Steps:
