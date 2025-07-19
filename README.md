@@ -1,6 +1,6 @@
 # Experiment-1
 
-Aim: Downloading and Installing VS Code, (Hello World and Calculator program)
+Aim: Create a Hello World and Calculator program
 
 C++ Prgram Structure: 
 •	The C++ language defines several headers, which contain information that is either necessary or useful to your program. For this program, the header <iostream> is needed.
