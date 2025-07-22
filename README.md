@@ -31,4 +31,5 @@ Use a switch-case to perform the selected operation
 Display the result  
 End  
 
-# Conclusion: The Hello World and Calculator Program introduce C++ basics—output display, user input, and simple operations to build the foundation for further programming concepts.
+# Conclusion: 
+The Hello World and Calculator Program introduce C++ basics—output display, user input, and simple operations to build the foundation for further programming concepts.
