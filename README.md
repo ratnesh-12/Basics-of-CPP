@@ -2,7 +2,7 @@
 
 # Aim: Create a Hello World and Calculator program
 
-#Tools used: Programiz online compiler
+# Tools used: Programiz online compiler
 
 # Theory:<br>
 C++ is a high-level, general-purpose programming language that supports object-oriented, procedural, and generic programming. It is widely used for system/application software, game development, and competitive programming.<br>
@@ -31,4 +31,4 @@ Use a switch-case to perform the selected operation
 Display the result  
 End  
 
-#Conclusion: The Hello World and Calculator Program introduce C++ basics—output display, user input, and simple operations to build the foundation for further programming concepts.
+# Conclusion: The Hello World and Calculator Program introduce C++ basics—output display, user input, and simple operations to build the foundation for further programming concepts.
